@@ -89,7 +89,7 @@ header .texto h3{
 }
 /*--------MAIN---------*/
 .main{
-    background-image: url(../cafe/img/bg-textura.png);
+    background-image: url(img/bg-textura.png);
     background-repeat: repeat;
 }
 .main .acerca-de .contenedor{
