@@ -23,7 +23,7 @@ body{
 /*-------ESTE ES EL HEADER-------*/
 header{
     width: 100%;
-    background-image: url(../cafe/img/fondo1.jpg);
+    background-image: url(img/fondo1.jpg);
     background-size: cover;
     background-attachment: fixed;
     background-position: center 0;
