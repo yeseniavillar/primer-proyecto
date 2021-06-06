@@ -22,13 +22,13 @@ body{
     
 /*-------ESTE ES EL HEADER-------*/
 header{
-    width: 100%;
-    background-image: url(img/fondo1.jpg);
-    background-size: cover;
-    background-attachment: fixed;
-    background-position: center 0;
-    background-color:#522403ea;
-    background-blend-mode:multiply;
+    
+    min-height: 100vh;
+    background:linear-gradient(to top,rgba(92, 51, 3, 0.671), rgba(83, 52, 6, 0.829)),
+    url(img/fondo1.jpg) center/cover no-repeat fixed;
+    /*background-color:#522403ea;*/
+   
+   
 }
 header .contenedor1{
     position: relative;
